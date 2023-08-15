@@ -8,6 +8,10 @@ const today = '광복절'; //문자.
 
 const pass = true;
 
+is (pass){
+    console.log(hello)
+}
+
 console.log(age);
 console.log(year);
 console.log(250);
